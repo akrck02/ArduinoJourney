@@ -64,7 +64,7 @@ void loop() {
   Serial.print("x : ");
   Serial.println(x);
 
-  servo.write(x);
+  servo.write((int)x);
   delay(SERVO_DELAY);
   
 }
