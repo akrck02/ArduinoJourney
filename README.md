@@ -14,6 +14,8 @@ To develop the code that is stored repository I use the following hardware:
 
 > 💻  &nbsp; **|** &nbsp; MSI Modern 14 / i7 10510U / 16GB RAM DDR4 2666Mhz
 >
+> 🖥️  &nbsp; **|** &nbsp; ryzen 7 - 3700x / Radeon Rx6700 10GB / 32GB RAM DDR4 3200Mhz 
+>
 > ⚙️  &nbsp; **|** &nbsp; Elegoo Uno R3 (Arduino uno R3) Super starter kit
 
 
